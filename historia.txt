@@ -1,6 +1,12 @@
 Esta es la historia de Freddy Vega
 
+<<<<<<< HEAD
 Freddy Vega tiene 33 años y nacio en Colambia,
 viviendo en todo el mundo
 
 Hoy hablaremos de su vida
+=======
+Freddy Vega tiene 33 años y nacio en Colambia
+
+Mañana nos enfocaremos en su vida laboral
+>>>>>>> cabecera

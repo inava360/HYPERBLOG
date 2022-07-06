@@ -1,7 +1,14 @@
 body
 {
+<<<<<<< HEAD
 
     color: burlywood;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
+=======
+    color: brown;
+    text-align: right;
+    font-family: "Verdana";
+}
+>>>>>>> cabecera
